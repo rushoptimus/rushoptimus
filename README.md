@@ -53,7 +53,7 @@
 
 ## 🎓 Education
 <p align="center">
-  <b>Master of Computer Applications</b> — Lovely Professional University (2023 — 2025) •
+  <b>Master of Computer Applications</b> — Lovely Professional University (2023 — 2025) <br/>
   <b>Bachelor of Computer Applications</b> — Maharaja Ganga Singh University (2020 — 2023)
 </p>
 
