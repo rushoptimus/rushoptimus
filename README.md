@@ -20,6 +20,9 @@
 
 ---
 
+<div id="about"></div>
+
+
 ## 📜 About
 I’m a **Full Stack Web Developer** specializing in the **MERN stack + modern frameworks like Next.js**.  
 I focus on building **scalable, user-focused applications** with clean UI, reusable components, and AI-driven features that boost **UX, performance, and workflow efficiency**.  
@@ -38,6 +41,9 @@ I focus on building **scalable, user-focused applications** with clean UI, reusa
 </p>
 
 ---
+
+<div id="tech-stack"></div>
+
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -58,6 +64,9 @@ I focus on building **scalable, user-focused applications** with clean UI, reusa
 - **Freelance Web Developer** *(Nov 2024 – Present)*
 
 ---
+
+<div id="projects"></div>
+
 
 ## 📌 Featured Projects
 ### 1️⃣ [FocusTrail](https://focustrail-frontends.up.railway.app/)  
@@ -86,6 +95,9 @@ I focus on building **scalable, user-focused applications** with clean UI, reusa
 </p>
 
 ---
+
+<div id="contact"></div>
+
 
 ## 📫 Contact
 <p align="center">
