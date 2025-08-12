@@ -66,21 +66,20 @@
 </p>
 
 <p align="center">
-  <!-- Skill badges for emphasis -->
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ---
 
 ## 💼 Work Experience
 <p align="center">
-  <b>Full Stack Web Developer Intern</b> — Checkmed Private Limited (Feb 2025 – May 2025) •
-  <b>Full Stack Developer Intern</b> — Eduversity (Jul 2024 – Oct 2024) •
-  <b>Freelance Web Developer</b> (Nov 2024 – Present)
+  <b>Full Stack Web Developer Intern</b> — Checkmed Private Limited (Feb 2025 – May 2025) <br />
+  <b>Full Stack Developer Intern</b> — Eduversity (Jul 2024 – Oct 2024) <br />
+  <b>Freelance Web Developer</b> (Nov 2024 – Present) <br />
 </p>
 
 ---
