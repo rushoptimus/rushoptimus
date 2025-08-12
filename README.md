@@ -21,7 +21,11 @@
 </p>
 
 <div id="summary"></div>
+
+
 ---
+
+
 ## 📜 Summary
 <p align="center" >
   Full Stack Web Developer with hands-on experience building **scalable, user-focused applications** using the MERN stack. I build responsive dashboards, reusable React components, and AI-driven features to improve UX and workflow efficiency.
@@ -56,8 +60,13 @@
 </p>
 
 <div id="Tech"></div>
+
+
 ---
+
+
 ## 🛠 Tech Stack
+
 <p align="center" >
   <!-- Skill icons -->
   <img src="https://skillicons.dev/icons?i=react,tailwind,ts,html,css,js,nodejs,express,mongodb,mysql,php,java,python,cpp,git,github,vscode,postman,netlify" />
@@ -82,9 +91,14 @@
 </p>
 
 ---
+
+
 <div id="projects"> </div>
 <div align="center" >
-## 📌 Featured Projects
+
+---
+  
+  ## 📌 Featured Projects
 
 <!-- FocusTrail card -->
 <a href="https://focustrail-frontends.up.railway.app/" target="_blank" style="text-decoration:none">
@@ -144,7 +158,11 @@
 </details>
 
 <div id="Contanct"> </div>
+
+
 ---
+
+
 ## 📫 Contact
 <p align="center" >
   <a href="mailto:mukeshgoyal573@gmail.com">📧 mukeshgoyal573@gmail.com</a> • <a href="https://www.linkedin.com/in/mukesh-goyal-0a4a7a206/">LinkedIn</a> • <a href="https://github.com/rushoptimus">GitHub</a>
