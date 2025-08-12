@@ -121,9 +121,9 @@
 
 ## 📈 GitHub Activity & Stats
 <p align="center">
-  <!-- Activity graph -->
-  ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rushoptimus&theme=react-dark&area=true)
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rushoptimus&theme=react-dark&area=true" alt="Activity Graph" />
 </p>
+
 
 <p align="center">
   <!-- Stats cards -->
