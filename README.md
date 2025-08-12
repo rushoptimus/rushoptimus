@@ -20,8 +20,8 @@
   <a href="#Contanct"><img src="https://img.shields.io/badge/-Contact-ff5722?style=for-the-badge" alt="Contact" /></a>
 </p>
 
----
 <div id="summary"></div>
+---
 ## 📜 Summary
 <p align="center" >
   Full Stack Web Developer with hands-on experience building **scalable, user-focused applications** using the MERN stack. I build responsive dashboards, reusable React components, and AI-driven features to improve UX and workflow efficiency.
@@ -55,8 +55,8 @@
   <b>Bachelor of Computer Applications</b> — Maharaja Ganga Singh University (2020 — 2023)
 </p>
 
----
 <div id="Tech"></div>
+---
 ## 🛠 Tech Stack
 <p align="center" >
   <!-- Skill icons -->
@@ -143,8 +143,8 @@
 
 </details>
 
----
 <div id="Contanct"> </div>
+---
 ## 📫 Contact
 <p align="center" >
   <a href="mailto:mukeshgoyal573@gmail.com">📧 mukeshgoyal573@gmail.com</a> • <a href="https://www.linkedin.com/in/mukesh-goyal-0a4a7a206/">LinkedIn</a> • <a href="https://github.com/rushoptimus">GitHub</a>
