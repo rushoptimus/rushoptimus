@@ -21,12 +21,12 @@
 </p>
 
 ---
-<div id="summary">
+<div id="summary"></div>
 ## 📜 Summary
 <p align="center" >
   Full Stack Web Developer with hands-on experience building **scalable, user-focused applications** using the MERN stack. I build responsive dashboards, reusable React components, and AI-driven features to improve UX and workflow efficiency.
 </p>
-</div>
+
 
 ---
 
@@ -56,13 +56,13 @@
 </p>
 
 ---
-<div id="Tech">
+<div id="Tech"></div>
 ## 🛠 Tech Stack
 <p align="center" >
   <!-- Skill icons -->
   <img src="https://skillicons.dev/icons?i=react,tailwind,ts,html,css,js,nodejs,express,mongodb,mysql,php,java,python,cpp,git,github,vscode,postman,netlify" />
 </p>
-</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -82,8 +82,8 @@
 </p>
 
 ---
-
-<div align="center" id="projects">
+<div id="projects"> </div>
+<div align="center" >
 ## 📌 Featured Projects
 
 <!-- FocusTrail card -->
@@ -120,7 +120,7 @@
 
 ## 📈 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rushoptimus&theme=react-dark&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushoptimus&theme=react-dark&area=true" alt="Activity Graph" />
 </p>
 
 
@@ -144,12 +144,12 @@
 </details>
 
 ---
-<div id="Contanct"> 
+<div id="Contanct"> </div>
 ## 📫 Contact
 <p align="center" >
   <a href="mailto:mukeshgoyal573@gmail.com">📧 mukeshgoyal573@gmail.com</a> • <a href="https://www.linkedin.com/in/mukesh-goyal-0a4a7a206/">LinkedIn</a> • <a href="https://github.com/rushoptimus">GitHub</a>
 </p>
-</div>
+
 ---
 
 <p align="center">
