@@ -96,7 +96,7 @@
 <div id="projects"> </div>
 <div align="center" >
 
----
+
   
   ## 📌 Featured Projects
 
