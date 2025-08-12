@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=ffffff&center=true&width=700&lines=Hi%2C+I'm+Mukesh+Goyal;Full+Stack+Web+Developer;MERN+Stack+Specialist;AI+Feature+Integrator)](https://git.io/typing-svg)
+</p>
+
 
 <p align="center">
   <a href="#summary"><img src="https://img.shields.io/badge/-About-blueviolet?style=for-the-badge" alt="About" /></a>
