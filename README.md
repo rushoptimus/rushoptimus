@@ -107,8 +107,8 @@
       <td align="center" style="padding:8px">
         <img src="https://drive.google.com/uc?export=view&id=1cUtIfjQmXToOGq-XRwgl8bkuYBfa-7ic" alt="FocusTrail" width="420" style="border-radius:8px;box-shadow:0 8px 20px rgba(0,0,0,0.15)"/>
         <h3 style="margin-bottom:2px">FocusTrail</h3>
-        <p style="margin-top:0">Smart dashboard for productivity & wellness — mood check-ins, tasks, calendar, and AI suggestions.</p>
       </td>
+        <p style="margin-top:0">Smart dashboard for productivity & wellness — mood check-ins, tasks, calendar, and AI suggestions.</p>
     </tr>
   </table>
 </a>
@@ -122,8 +122,8 @@
       <td align="center" style="padding:8px">
         <img src="https://drive.google.com/uc?export=view&id=1ETRRmYiOqQ_SwF1mivQjabrXQBIiXjr3" alt="Dice Game" width="420" style="border-radius:8px;box-shadow:0 8px 20px rgba(0,0,0,0.15)"/>
         <h3 style="margin-bottom:2px">Dice Game</h3>
-        <p style="margin-top:0">Interactive React game styled with Tailwind — fun UI + responsive gameplay.</p>
       </td>
+        <p style="margin-top:0">Interactive React game styled with Tailwind — fun UI + responsive gameplay.</p>
     </tr>
   </table>
 </a>
