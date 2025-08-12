@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=ffffff&center=true&width=700&lines=Hi%2C+I'm+Mukesh+Goyal;Full+Stack+Web+Developer;MERN+Stack+Specialist;AI+Feature+Integrator)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&width=700&lines=Hi%2C+I'm+Mukesh+Goyal;Full+Stack+Web+Developer;MERN+Stack+Specialist;AI+Feature+Integrator" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
