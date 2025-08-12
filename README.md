@@ -1,7 +1,4 @@
-<!-- ===========================
-     Mukesh Goyal — Profile README
-     Paste this entire file into README.md
-     =========================== -->
+
 
 <!-- Header / Animated typing -->
 <p align="center">
@@ -18,15 +15,15 @@
 
 <p align="center">
   <a href="#summary"><img src="https://img.shields.io/badge/-About-blueviolet?style=for-the-badge" alt="About" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/-Tech%20Stack-009688?style=for-the-badge" alt="Tech" /></a>
+  <a href="#Tech"><img src="https://img.shields.io/badge/-Tech%20Stack-009688?style=for-the-badge" alt="Tech" /></a>
   <a href="#projects"><img src="https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge" alt="Projects" /></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/-Contact-ff5722?style=for-the-badge" alt="Contact" /></a>
+  <a href="#Contanct"><img src="https://img.shields.io/badge/-Contact-ff5722?style=for-the-badge" alt="Contact" /></a>
 </p>
 
 ---
 
 ## 📜 Summary
-<p align="center">
+<p align="center" id="summary">
   Full Stack Web Developer with hands-on experience building **scalable, user-focused applications** using the MERN stack. I build responsive dashboards, reusable React components, and AI-driven features to improve UX and workflow efficiency.
 </p>
 
@@ -60,7 +57,7 @@
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
+<p align="center" id="Tech">
   <!-- Skill icons -->
   <img src="https://skillicons.dev/icons?i=react,tailwind,ts,html,css,js,nodejs,express,mongodb,mysql,php,java,python,cpp,git,github,vscode,postman,netlify" />
 </p>
@@ -85,7 +82,7 @@
 ---
 
 ## 📌 Featured Projects
-<div align="center">
+<div align="center" id="projects">
 
 <!-- FocusTrail card -->
 <a href="https://focustrail-frontends.up.railway.app/" target="_blank" style="text-decoration:none">
@@ -147,7 +144,7 @@
 ---
 
 ## 📫 Contact
-<p align="center">
+<p align="center" id="Contanct">
   <a href="mailto:mukeshgoyal573@gmail.com">📧 mukeshgoyal573@gmail.com</a> • <a href="https://www.linkedin.com/in/mukesh-goyal-0a4a7a206/">LinkedIn</a> • <a href="https://github.com/rushoptimus">GitHub</a>
 </p>
 
